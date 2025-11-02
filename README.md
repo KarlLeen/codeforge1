@@ -251,13 +251,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS**: For the utility-first CSS framework
 - **Open Source Community**: For the countless libraries and tools
 
-## 📞 Support
-
-- **Documentation**: [docs.codeforge.dev](https://docs.codeforge.dev)
-- **Discord**: [Join our community](https://discord.gg/codeforge)
-- **GitHub Issues**: [Report bugs and request features](https://github.com/your-username/codeforge/issues)
-- **Email**: support@codeforge.dev
-
 ---
-
 Built with ❤️ for the developer community. Powered by IPFS for a decentralized future.
